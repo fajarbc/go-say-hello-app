@@ -2,3 +2,5 @@ github.com/fajarbc/go-say-hello v1.0.1 h1:faLhG0YxikQW8h1lsRJt3RqXr96M4W4krrhktl
 github.com/fajarbc/go-say-hello v1.0.1/go.mod h1:iW1RLRYc7SC1ELdBty/7Dv7cSGgiPFX/DDmyWdKyKtI=
 github.com/fajarbc/go-say-hello v1.0.2 h1:e4Fs220CDFOtMBfub3AYnO3HYwtDYLjrlT30lBIclSc=
 github.com/fajarbc/go-say-hello v1.0.2/go.mod h1:iW1RLRYc7SC1ELdBty/7Dv7cSGgiPFX/DDmyWdKyKtI=
+github.com/fajarbc/go-say-hello/v2 v2.0.1 h1:mN89wgfNdGIeBKW7HYaYUAuG5GkRbGY9zL4WRlbTqH8=
+github.com/fajarbc/go-say-hello/v2 v2.0.1/go.mod h1:5cWOjXVTdda7B7SbGiknj+47CQp+geP75nGNXquKjjI=
